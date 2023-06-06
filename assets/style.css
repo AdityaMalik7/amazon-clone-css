@@ -253,3 +253,11 @@ ul a {
 .copyright {
   padding-top: 5px;
 }
+
+.git {
+  font-size: 30px;
+  text-decoration: none;
+}
+.foot-panel3 i {
+  color: white;
+}
